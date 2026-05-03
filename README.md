@@ -48,3 +48,9 @@ pnpm run dev
 ## License
 
 Licensed under the [MIT license](https://github.com/giacomogaglione/chef-gpt/blob/main/LICENSE.md).
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
